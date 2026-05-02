@@ -122,18 +122,18 @@ Placement > Result > Event
 
 ### 🔹 Stage 1
 
-![Top Notifications](assets/ss_1.png)
-![Logs Success](assets/ss_2.png)
+![Top Notifications](src/assets/ss_1.png)
+![Logs Success](src/assets/ss_2.png)
 
 ---
 
 ### 🔹 Stage 2
 
-![All Notifications](assets/all.png)
-![Pagination](assets/all_1.png)
-![Event Filter](assets/event.png)
-![Result Filter](assets/result.png)
-![Placement Filter](assets/placement.png)
+![All Notifications](src/assets/all.png)
+![Pagination](src/assets/all_1.png)
+![Event Filter](src/assets/event.png)
+![Result Filter](src/assets/result.png)
+![Placement Filter](src/assets/placement.png)
 
 ---
 
